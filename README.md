@@ -3,7 +3,7 @@
 <div align="center">
  <h1>Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="40"> Eu sou Igor Schuller</h1>
 <p>👩🏻‍💻Estudante de Análise e Desenvolvimento de Sistemas no SENAC</p>
-<p>💻Desenvolvedor Front-End</p>
+<p>💻Desenvolvedor Full-Stack</p>
 </div>
 
 <div align="center">
